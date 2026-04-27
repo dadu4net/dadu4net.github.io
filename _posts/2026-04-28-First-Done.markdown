@@ -1,12 +1,20 @@
+---
+layout: post
+title:  "First down"
+date:   2026-04-28 00:22:47 +0200
+categories: personal
+---
+# Hallo👋, ik ben Rik Dobbelsteen
 
-Hallo👋, ik ben Rik Dobbelsteen
-Microsoft 365 Specialist | Consultant & Co-founder bij Buro GEKKO
+**Microsoft 365 Specialist | Consultant & Co-founder bij Buro GEKKO**
+
+***
 
 Ik help organisaties om efficiënter en effectiever te werken door Microsoft 365-oplossingen op de juiste manier in te zetten. Mijn missie? Organisaties het optimale laten halen uit de cloud, zodat medewerkers meer doen in minder tijd en op een leukere, meer eenvoudige wijze.
 Als Consultant & Co-founder bij Buro GEKKO werk ik samen met organisaties aan slimme en duurzame oplossingen met Microsoft-technologie. Bij Buro GEKKO bundelen we onze krachten als collectief van zelfstandig ondernemers, elk met eigen expertise, maar met één gezamenlijk doel: organisaties productiviteit laten winnen.
 
 "Door Microsoft 365-oplossingen op de juiste manier in te zetten, kunnen medewerkers en organisaties meer doen in minder tijd."
-
+***
 
 ## 🎯 Wat ik doe
 Een professionele vragensteller
@@ -596,6 +604,4 @@ Ben je benieuwd wat ik voor jouw organisatie kan betekenen? Of wil je meer weten
 </div>
 
 
-
-
-Is jouw organisatie toe aan een boost? Dan is de reislustige Rik jouw man!
+***
