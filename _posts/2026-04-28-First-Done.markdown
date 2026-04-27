@@ -1,24 +1,14 @@
----
-layout: post
-title:  "First down"
-date:   2026-04-28 00:22:47 +0200
-categories: personal
----
 
-👋 Over Rik Dobbelsteen
+Hallo👋, ik ben Rik Dobbelsteen
 Microsoft 365 Specialist | Consultant & Co-founder bij Buro GEKKO
 
-
-Hi, ik ben Rik
 Ik help organisaties om efficiënter en effectiever te werken door Microsoft 365-oplossingen op de juiste manier in te zetten. Mijn missie? Organisaties het optimale laten halen uit de cloud, zodat medewerkers meer doen in minder tijd en op een leukere, meer eenvoudige wijze.
 Als Consultant & Co-founder bij Buro GEKKO werk ik samen met organisaties aan slimme en duurzame oplossingen met Microsoft-technologie. Bij Buro GEKKO bundelen we onze krachten als collectief van zelfstandig ondernemers, elk met eigen expertise, maar met één gezamenlijk doel: organisaties productiviteit laten winnen.
 
 "Door Microsoft 365-oplossingen op de juiste manier in te zetten, kunnen medewerkers en organisaties meer doen in minder tijd."
 
 
-
-
-🎯 Wat ik doe
+## 🎯 Wat ik doe
 Een professionele vragensteller
 Ik noem mezelf graag een Microsoft 365-consultant, of misschien wel beter: een professionele vragensteller. Mijn klanten willen hun organisatie beter laten functioneren en ik zorg voor een oplossing die écht past.
 Zo werk ik:
@@ -38,7 +28,7 @@ Daarom besteed ik veel aandacht aan gebruikersadoptie. Medewerkers moeten begrij
 ✅ Hoe zij blijvend gebruikt wordt
 
 
-🚀 Expertisegebieden
+## 🚀 Expertisegebieden
 
 <style>
         :root {
@@ -320,7 +310,7 @@ Recente afleveringen:
 📅 Mei 2025: "AI, Hype of Revolutie" – Microsoft Copilot en de toekomst van werk
 
 
-🔶 Copilot AI Experience
+## 🔶 Copilot AI Experience
 Via copilot-ai.nl help ik organisaties de kracht van AI te ontdekken met de Copilot Experience – een 3 maanden durend traject waarin teams hands-on ervaring opdoen met Microsoft Copilot.
 Wat levert het op?
 
@@ -331,14 +321,14 @@ Wat levert het op?
 ✅ Een nieuwe manier van werken
 
 
-🌍 Persoonlijk: De reislustige Brabander
+## 🌍 Persoonlijk: De reislustige Brabander
 Ik ben een sociaal dier. Het contact met teamleden geeft me energie. Ik leg gemakkelijk contact, houd van gezelligheid en ben in voor een lolletje. Ik blijf wel een Brabander, hè!
 Reizen is mijn passie. In 2020 ging ik met mijn gezin naar Australië. Het plan was twee maanden werken, daarna het land ontdekken en een vriend in Nieuw Zeeland opzoeken. Maar door de Corona-pandemie liep het anders. We werkten uiteindelijk drie maanden in Australië en zagen plekken waarvan we het bestaan niet wisten – vaak als enige toeristen.
 Die flexibele instelling herken ik ook professioneel: bij opdrachten gaat het zelden zoals je het van tevoren had bedacht. Dat betekent omschakelen vanuit de positieve gedachte dat voor elk probleem een oplossing is te vinden.
 Naast reizen ben ik fan van technologie, wielrennen, skiën, programmeren en webdevelopment.
 
 
-📬 Neem contact op
+## 📬 Neem contact op
 Ben je benieuwd wat ik voor jouw organisatie kan betekenen? Of wil je meer weten over Microsoft 365, Copilot of adoptievraagstukken? Neem gerust contact op!
 🌐 Website Buro GEKKO: www.burogekko.nl
 🤖 Copilot AI Experience: www.copilot-ai.nl
