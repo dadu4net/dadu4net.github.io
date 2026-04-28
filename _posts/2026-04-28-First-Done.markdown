@@ -10,31 +10,39 @@ categories: personal
 
 ***
 
-Ik help organisaties om efficiënter en effectiever te werken door Microsoft 365-oplossingen op de juiste manier in te zetten. Mijn missie? Organisaties het optimale laten halen uit de cloud, zodat medewerkers meer doen in minder tijd en op een leukere, meer eenvoudige wijze.
-Als Consultant & Co-founder bij Buro GEKKO werk ik samen met organisaties aan slimme en duurzame oplossingen met Microsoft-technologie. Bij Buro GEKKO bundelen we onze krachten als collectief van zelfstandig ondernemers, elk met eigen expertise, maar met één gezamenlijk doel: organisaties productiviteit laten winnen.
+Ik help organisaties om efficiënter en effectiever te werken door Microsoft 365-oplossingen op de juiste manier in te zetten. Mijn missie? Organisaties het optimale laten halen uit de cloud, zodat medewerkers **meer doen in minder tijd en op een leukere, meer eenvoudige wijze.**
 
-"Door Microsoft 365-oplossingen op de juiste manier in te zetten, kunnen medewerkers en organisaties meer doen in minder tijd."
+Als **Consultant & Co-founder** bij [**Buro GEKKO**](https://www.burogekko.nl) werk ik samen met organisaties aan slimme en duurzame oplossingen met Microsoft-technologie. Bij Buro GEKKO bundelen we onze krachten als collectief van zelfstandig ondernemers, elk met eigen expertise, maar met één gezamenlijk doel: organisaties **productiviteit laten winnen**. [\[na.linkedin.com\]](https://na.linkedin.com/company/buro-gekko)
+
+
+> "Door Microsoft 365-oplossingen op de juiste manier in te zetten, kunnen medewerkers en organisaties meer doen in minder tijd."
 ***
 
 ## 🎯 Wat ik doe
-Een professionele vragensteller
-Ik noem mezelf graag een Microsoft 365-consultant, of misschien wel beter: een professionele vragensteller. Mijn klanten willen hun organisatie beter laten functioneren en ik zorg voor een oplossing die écht past.
-Zo werk ik:
 
-📊 Ik breng processen en procedures in kaart
-💬 Ga in gesprek met medewerkers
-🛠️ Organiseer workshops, interviews en scans
-👀 Kijk mee bij de dagelijkse werkzaamheden
-Pas als ik antwoord heb op de kernvraag "Wat is nodig?" adviseer ik over mogelijke digitale applicaties, platformen en hun plaats in de organisatie.
-Focus op mensen, niet alleen technologie
-Wat mij drijft? De mensen. Zij zijn de organisatie en moeten met de techniek blijven werken. Die techniek is altijd ondersteunend en zeker geen doel op zich.
-Daarom besteed ik veel aandacht aan gebruikersadoptie. Medewerkers moeten begrijpen:
+### Een professionele vragensteller
 
-✅ Waarom de nieuwe applicatie nodig is
-✅ Wat zij kan
-✅ Hoe zij beheerd wordt
-✅ Hoe zij blijvend gebruikt wordt
+Ik noem mezelf graag een **Microsoft 365-consultant**, of misschien wel beter: een **professionele vragensteller**. Mijn klanten willen hun organisatie beter laten functioneren en ik zorg voor een oplossing die écht past. 
 
+**Zo werk ik:**
+
+*   📊 Ik breng **processen en procedures** in kaart
+*   💬 Ga in **gesprek met medewerkers**
+*   🛠️ Organiseer **workshops, interviews en scans**
+*   👀 Kijk mee bij de **dagelijkse werkzaamheden**
+
+Pas als ik antwoord heb op de kernvraag *"Wat is nodig?"* adviseer ik over mogelijke digitale applicaties, platformen en hun plaats in de organisatie.
+
+### Focus op mensen, niet alleen technologie
+
+Wat mij drijft? **De mensen**. Zij zijn de organisatie en moeten met de techniek blijven werken. Die techniek is altijd ondersteunend en zeker geen doel op zich.
+
+Daarom besteed ik veel aandacht aan **gebruikersadoptie**. Medewerkers moeten begrijpen:
+
+*   ✅ **Waarom** de nieuwe applicatie nodig is
+*   ✅ **Wat** zij kan
+*   ✅ **Hoe** zij beheerd wordt
+*   ✅ **Hoe** zij blijvend gebruikt wordt 
 
 ## 🚀 Expertisegebieden
 
@@ -302,49 +310,63 @@ Daarom besteed ik veel aandacht aan gebruikersadoptie. Medewerkers moeten begrij
 Mijn specialisaties omvatten Microsoft Teams, SharePoint, OneDrive, Microsoft Copilot, gebruikersadoptie, educatie, migratie, procesoptimalisatie, beleid, beveiliging en beheersbaarheid.
 
 
-🎙️ Podcast: Apple'tje Eitje met Microsoft 365
-Sinds 2025 ben ik co-host van de podcast Apple'tje Eitje met Microsoft 365, samen met Marcel Alberts (365ForAll.com) en Cas de Morree (FOCUSFUEL).
-Wat kun je verwachten?
+## 🎙️ Podcast: Apple'tje Eitje met Microsoft 365
 
-🎯 Direct toepasbare inzichten over hedendaags samenwerken in Microsoft 365
-💡 Geen technische verhalen, maar onze ongezoute mening
-📬 Aan het einde van elke aflevering: een BRIEF met 3 onderwerpen uit het Microsoft Message Center
-Recente afleveringen:
+Sinds 2025 ben ik co-host van de podcast [**Apple'tje Eitje met Microsoft 365**](https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320), samen met **Marcel Alberts** (365ForAll.com) en **Cas de Morree** (FOCUSFUEL). [\[podcasts.apple.com\]](https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320)
 
-📅 Dec 2025: "Gefeliciteerd, je bent getraind. Succes ermee!" – Adoptie en Copilot
-📅 Aug 2025: "Weer een Spreadsheet met een planning" – Excel, Planner & projectmanagement
-📅 Jul 2025: "You Get a Team! And You Get a Team!" – Teams, adoptie & migratie
-📅 Jun 2025: "Ode aan de netwerkschijf" – OneDrive, SharePoint & samenwerking
-📅 Mei 2025: "AI, Hype of Revolutie" – Microsoft Copilot en de toekomst van werk
+**Wat kun je verwachten?**
 
+*   🎯 Direct toepasbare inzichten over hedendaags samenwerken in Microsoft 365
+*   💡 Geen technische verhalen, maar onze **ongezoute mening**
+*   📬 Aan het einde van elke aflevering: een BRIEF met 3 onderwerpen uit het Microsoft Message Center [\[podcasts.apple.com\]](https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320)
+
+**Recente afleveringen:**
+
+*   📅 Dec 2025: *"Gefeliciteerd, je bent getraind. Succes ermee!"* – Adoptie en Copilot [\[podcasts.apple.com\]](https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320)
+*   📅 Aug 2025: *"Weer een Spreadsheet met een planning"* – Excel, Planner & projectmanagement [\[podcasts.apple.com\]](https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320)
+*   📅 Jul 2025: *"You Get a Team! And You Get a Team!"* – Teams, adoptie & migratie [\[podcasts.apple.com\]](https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320)
+*   📅 Jun 2025: *"Ode aan de netwerkschijf"* – OneDrive, SharePoint & samenwerking [\[podcasts.apple.com\]](https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320)
+*   📅 Mei 2025: *"AI, Hype of Revolutie"* – Microsoft Copilot en de toekomst van werk [\[podcasts.apple.com\]](https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320)
+
+
+***
 
 ## 🔶 Copilot AI Experience
-Via copilot-ai.nl help ik organisaties de kracht van AI te ontdekken met de Copilot Experience – een 3 maanden durend traject waarin teams hands-on ervaring opdoen met Microsoft Copilot.
-Wat levert het op?
 
-✅ Inzichten in AI-mogelijkheden vanuit jouw specifieke context
-✅ Hands-on ervaring met AI in de praktijk
-✅ Snel draagvlak en enthousiasme binnen je team
-✅ Concrete eerste stappen met tastbare resultaten
-✅ Een nieuwe manier van werken
+Via [**copilot-ai.nl**](https://www.copilot-ai.nl) help ik organisaties de kracht van AI te ontdekken met de **Copilot Experience** – een 3 maanden durend traject waarin teams hands-on ervaring opdoen met Microsoft Copilot. [\[copilot-ai.nl\]](https://www.copilot-ai.nl/)
 
+**Wat levert het op?**
+
+*   ✅ Inzichten in AI-mogelijkheden vanuit jouw specifieke context
+*   ✅ Hands-on ervaring met AI in de praktijk
+*   ✅ Snel draagvlak en enthousiasme binnen je team
+*   ✅ Concrete eerste stappen met tastbare resultaten
+*   ✅ Een nieuwe manier van werken [\[copilot-ai.nl\]](https://www.copilot-ai.nl/)
+
+***
 
 ## 🌍 Persoonlijk: De reislustige Brabander
-Ik ben een sociaal dier. Het contact met teamleden geeft me energie. Ik leg gemakkelijk contact, houd van gezelligheid en ben in voor een lolletje. Ik blijf wel een Brabander, hè!
-Reizen is mijn passie. In 2020 ging ik met mijn gezin naar Australië. Het plan was twee maanden werken, daarna het land ontdekken en een vriend in Nieuw Zeeland opzoeken. Maar door de Corona-pandemie liep het anders. We werkten uiteindelijk drie maanden in Australië en zagen plekken waarvan we het bestaan niet wisten – vaak als enige toeristen.
-Die flexibele instelling herken ik ook professioneel: bij opdrachten gaat het zelden zoals je het van tevoren had bedacht. Dat betekent omschakelen vanuit de positieve gedachte dat voor elk probleem een oplossing is te vinden.
-Naast reizen ben ik fan van technologie, wielrennen, skiën, programmeren en webdevelopment.
 
+Ik ben een **sociaal dier**. Het contact met teamleden geeft me energie. Ik leg gemakkelijk contact, houd van gezelligheid en ben in voor een lolletje. Ik blijf wel een Brabander, hè! 
+
+**Reizen is mijn passie.** In 2020 ging ik met mijn gezin naar Australië. Het plan was twee maanden werken, daarna het land ontdekken en een vriend in Nieuw Zeeland opzoeken. Maar door de Corona-pandemie liep het anders. We werkten uiteindelijk drie maanden in Australië en zagen plekken waarvan we het bestaan niet wisten – vaak als enige toeristen. 
+
+Die flexibele instelling herken ik ook professioneel: **bij opdrachten gaat het zelden zoals je het van tevoren had bedacht**. Dat betekent omschakelen vanuit de positieve gedachte dat voor elk probleem een oplossing is te vinden.
+
+***
 
 ## 📬 Neem contact op
-Ben je benieuwd wat ik voor jouw organisatie kan betekenen? Of wil je meer weten over Microsoft 365, Copilot of adoptievraagstukken? Neem gerust contact op!
-🌐 Website Buro GEKKO: www.burogekko.nl
-🤖 Copilot AI Experience: www.copilot-ai.nl
-💼 LinkedIn: https://linkedin.com/in/rdobbelsteen
-🎙️ Podcast: Apple'tje Eitje met Microsoft 365
-📧 E-mail: info@burogekko.nl <info@burogekko.nl>
-📱 Telefoon: +31 6 13357723
 
+Ben je **benieuwd wat ik voor jouw organisatie kan betekenen?** Of wil je meer weten over Microsoft 365, Copilot of adoptievraagstukken? Neem gerust contact op!
+
+🌐 **Website Buro GEKKO:** [www.burogekko.nl](https://www.burogekko.nl)\
+🤖 **Copilot AI Experience:** [www.copilot-ai.nl](https://www.copilot-ai.nl)\
+💼 **LinkedIn:** <https://linkedin.com/in/rdobbelsteen>\
+🎙️ **Podcast:** [Apple'tje Eitje met Microsoft 365](https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320)\
+📧 **E-mail:** <info@burogekko.nl>\
+📱 **Telefoon:** +31 6 13357723
+
+***
 
 
 <style>
