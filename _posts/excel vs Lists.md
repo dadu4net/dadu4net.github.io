@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Excel vs SharePoint Lists 🥊"
+date:   2026-04-28 00:22:47 +0200
+categories: M365
+---
 # 📊 Excel vs. SharePoint-lijsten
 ### Een praktische vergelijking voor Power Users en Consultants
 
