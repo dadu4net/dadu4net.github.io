@@ -1,4 +1,854 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-04-27T23:15:19+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rik | Noppa | Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2026/04/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2026-04-27T21:49:47+02:00</published><updated>2026-04-27T21:49:47+02:00</updated><id>http://localhost:4000/jekyll/update/2026/04/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2026/04/27/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-01T11:06:41+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rik van Buro Gekko of Noppa | Blog</title><subtitle>Mijn ideeen om te delen en te plaatsen. Soms zinnig, soms totale onzin. Ik houd me vooral bezig met Microsft technologie, maar ook andere onderwerpen komen aan bod. Zo ben ik bezig met van een HomeLab met Proxmox.</subtitle><entry><title type="html">Onderzoek een organisatie</title><link href="http://localhost:4000/prompt/m365/skils/cowork/2026/04/29/onderzoek-een-organisatie.html" rel="alternate" type="text/html" title="Onderzoek een organisatie" /><published>2026-04-29T14:30:00+02:00</published><updated>2026-04-29T14:30:00+02:00</updated><id>http://localhost:4000/prompt/m365/skils/cowork/2026/04/29/onderzoek-een-organisatie</id><content type="html" xml:base="http://localhost:4000/prompt/m365/skils/cowork/2026/04/29/onderzoek-een-organisatie.html"><![CDATA[<h1 id="onderzoeken-van-een-organisatie---">Onderzoeken van een organisatie - 🔎</h1>
+
+<p>Tijdens een inspiratie workshop Copilot hebben ik Cowork als onderdeel van Microsoft’s Copilot laten zien. Hier heb ik gebruik gemaakt van een standaard suggestie prompt. Deze prompt genaamd –Research a company– 
+In samenwerking met Claude heeft Microsoft</p>
+
+<h2 id="dé-prompt">Dé Prompt</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Help me analyze a company. If I do not provide one, ask me which one (and make a few suggestions, e.g. Microsoft [MSFT]).
+
+Use web search to gather the most current information available, including recent earnings reports, SEC filings, analyst commentary, and relevant news. Do an exhaustive search, and be sure to place extra emphasis on the official financial data (and not news or editorialization). This is not financial advice, but just to help people understand a company.
+
+Take the findings and create three things –
+
+A short executive summary, you share in the chat
+
+3 paragraphs covering the company, its performance, and key financial highlights
+
+Use a concise, analyst-style, tone
+
+A 2 page word document that is a cover sheet of the research
+
+Page 1 – company overview (name, ticker, sector, market cap, current price, 52-week range)
+
+Page 2 – recent developments (last 1-2 quarters of earnings, guidance updates, M&amp;A activity), a summary of bull/bear arguments, and a table of key financial metrics
+
+A thorough spreadsheet with the financials. All tabs should include clear labels, source notes, and consistent formatting.
+
+Tab 1 — Income Statement: Last 3–5 years of annual data plus most recent quarterly results (revenue, COGS, gross profit, operating expenses, EBIT, net income, EPS)
+
+Tab 2 — Balance Sheet: Total assets, liabilities, equity, cash &amp; equivalents, total debt, net debt
+
+Tab 3 — Cash Flow Statement: Operating cash flow, capex, free cash flow, dividends, share repurchases
+
+Tab 4 — Key Ratios &amp; Metrics: Gross margin, operating margin, net margin, ROE, ROA, debt/equity, current ratio, EV/EBITDA, P/E, FCF yield
+
+Tab 5 — Valuation Snapshot: Current vs. 5-year average multiples, peer comparison if data is available`
+</code></pre></div></div>]]></content><author><name></name></author><category term="prompt" /><category term="M365" /><category term="skils" /><category term="Cowork" /><summary type="html"><![CDATA[Onderzoeken van een organisatie - 🔎]]></summary></entry><entry><title type="html">Excel vs SharePoint Lists 🥊</title><link href="http://localhost:4000/m365/2026/04/28/excel-vs-Lists.html" rel="alternate" type="text/html" title="Excel vs SharePoint Lists 🥊" /><published>2026-04-28T00:22:47+02:00</published><updated>2026-04-28T00:22:47+02:00</updated><id>http://localhost:4000/m365/2026/04/28/excel-vs-Lists</id><content type="html" xml:base="http://localhost:4000/m365/2026/04/28/excel-vs-Lists.html"><![CDATA[<h1 id="-excel-vs-sharepoint-lijsten">📊 Excel vs. SharePoint-lijsten</h1>
+<h3 id="een-praktische-vergelijking-voor-power-users-en-consultants">Een praktische vergelijking voor Power Users en Consultants</h3>
+
+<hr />
+
+<h2 id="-in-het-kort">⚡ In het kort</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th><strong>Excel</strong></th>
+      <th><strong>SharePoint Lists</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🎯 Sterkste punt</td>
+      <td>Complexe berekeningen &amp; analyse</td>
+      <td>Samenwerking &amp; gestructureerde data</td>
+    </tr>
+    <tr>
+      <td>👤 Ideaal voor</td>
+      <td>Individueel gebruik</td>
+      <td>Meerdere gebruikers tegelijk</td>
+    </tr>
+    <tr>
+      <td>🔒 Toegangscontrole</td>
+      <td>Bestandsniveau</td>
+      <td>Item- en rijniveau</td>
+    </tr>
+    <tr>
+      <td>🔄 Versiebeheer</td>
+      <td>Bestandsbreed</td>
+      <td>Per item/rij</td>
+    </tr>
+    <tr>
+      <td>🤖 Automatisering</td>
+      <td>Beperkt</td>
+      <td>Power Automate integratie</td>
+    </tr>
+    <tr>
+      <td>📏 Max. rijen</td>
+      <td>~1 miljoen</td>
+      <td>30 miljoen items</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p><strong>Hoofdregel:</strong> Gebruik Excel voor <em>analyse</em>, SharePoint Lists voor <em>samenwerking en processen</em>.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="-excel--krachtig-individueel-analysetool">📁 Excel — Krachtig individueel analysetool</h2>
+
+<h3 id="-waar-excel-in-uitblinkt">✅ Waar Excel in uitblinkt</h3>
+
+<ul>
+  <li><strong>Ad-hoc analyse &amp; berekeningen</strong> — Financiële modellen, budgettering, what-if-scenario’s met duizenden ingebouwde formules</li>
+  <li><strong>Visualisatie &amp; rapportage</strong> — Grafieken, draaitabellen en conditionele opmaak direct beschikbaar</li>
+  <li><strong>Flexibiliteit</strong> — Lokaal én online (Excel Online) te gebruiken, ook offline</li>
+  <li><strong>Lage drempel</strong> — Vrijwel iedereen kent de interface; geen training nodig voor eenvoudige tabellen</li>
+</ul>
+
+<h3 id="️-beperkingen-van-excel">⚠️ Beperkingen van Excel</h3>
+
+<ul>
+  <li><strong>Samenwerken is lastig</strong> — Co-authoring leidt bij losse bestanden snel tot versieconflicten en rondgestuurde duplicaten</li>
+  <li><strong>Geen rijspecifieke rechten</strong> — Wie het bestand mag zien, ziet alles</li>
+  <li><strong>Geen audit trail per cel</strong> — Versiebeheer geldt alleen voor het hele bestand, niet voor individuele records</li>
+  <li><strong>Datakwaliteit afhankelijk van gebruiker</strong> — Geen verplichte velden of kolom­validatie standaard</li>
+  <li><strong>Rijlimiet</strong> — Maximaal ±1 miljoen rijen per tabblad</li>
+</ul>
+
+<hr />
+
+<h2 id="️-sharepoint-lists--centrale-samenwerking-in-microsoft-365">🗂️ SharePoint Lists — Centrale samenwerking in Microsoft 365</h2>
+
+<h3 id="-waar-sharepoint-lists-in-uitblinkt">✅ Waar SharePoint Lists in uitblinkt</h3>
+
+<ul>
+  <li><strong>Real-time samenwerking</strong> — Meerdere gebruikers werken tegelijk aan dezelfde lijst zonder bestand­vergrendeling</li>
+  <li><strong>Gestructureerde data-invoer</strong> — Kolomtypes, verplichte velden en validatieregels borgen datakwaliteit</li>
+  <li><strong>Flexibele weergaven</strong> — Filter-, kalender- en bordweergaven per afdeling of gebruikersgroep</li>
+  <li><strong>Workflow­automatisering</strong> — Directe integratie met Power Automate voor meldingen, goedkeuringen en processen</li>
+  <li><strong>Fijnmazige rechten</strong> — Toegangsbeheer tot op itemniveau (rijspecifieke permissies)</li>
+  <li><strong>Audit trail</strong> — Versiegeschiedenis per item: wie heeft wat aangepast en wanneer</li>
+  <li><strong>Schaalbaarheid</strong> — Tot 30 miljoen items per lijst</li>
+</ul>
+
+<h3 id="️-beperkingen-van-sharepoint-lists">⚠️ Beperkingen van SharePoint Lists</h3>
+
+<ul>
+  <li><strong>Leercurve</strong> — Opzetten en beheren vereist enige SharePoint-kennis</li>
+  <li><strong>Beperkte opmaak</strong> — Complexe berekeningen en visuele rapportages zijn minder krachtig dan in Excel</li>
+  <li><strong>Analyse vereist export</strong> — Voor diepgaande analyse exporteer je doorgaans naar Excel of Power BI</li>
+</ul>
+
+<hr />
+
+<h2 id="-wanneer-gebruik-je-wat">🧭 Wanneer gebruik je wat?</h2>
+
+<h3 id="kies-excel-als">Kies <strong>Excel</strong> als…</h3>
+<ul>
+  <li>Eén persoon zelfstandig met de data werkt</li>
+  <li>Het gaat om financiële modellen, complexe formules of scenario­analyses</li>
+  <li>Visuele rapportages (grafieken, tabellen) het primaire doel zijn</li>
+  <li>Offline toegang vereist is</li>
+</ul>
+
+<h3 id="kies-sharepoint-lists-als">Kies <strong>SharePoint Lists</strong> als…</h3>
+<ul>
+  <li>Meerdere teamleden dezelfde data invoeren, bijhouden of bewerken</li>
+  <li>Workflow­automatisering of goedkeurings­processen een rol spelen</li>
+  <li>Security en compliance belangrijk zijn</li>
+  <li>Je een <em>single source of truth</em> nodig hebt voor het team</li>
+</ul>
+
+<hr />
+
+<h2 id="-combinatie-het-beste-van-beide-werelden">🔗 Combinatie: het beste van beide werelden</h2>
+
+<p>In de praktijk werken Excel en SharePoint Lists het beste <strong>samen</strong>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Teamleden → invoeren in SharePoint List → actuele, centrale data
+                                              ↓
+                          Export/koppeling naar Excel
+                                              ↓
+                    Controller → analyses, draaitabellen, rapportages
+</code></pre></div></div>
+
+<blockquote>
+  <p>💡 <strong>Tip:</strong> Maak in Excel een live koppeling met een SharePoint-lijst via <strong>Gegevens → Gegevens ophalen → Uit online services</strong>. Zo analyseer je altijd de meest actuele data zonder losse bestandsversies te verspreiden.</p>
+</blockquote>
+
+<p><strong>Praktijkvoorbeelden:</strong></p>
+<ul>
+  <li>Projectteam registreert dagelijks status in een SharePoint-lijst → controller exporteert wekelijks naar Excel voor financiële analyses</li>
+  <li>Medewerkers vullen een Excel-sjabloon (urenlijst) in → Power Automate-flow schrijft data weg naar een SharePoint-lijst voor consolidatie</li>
+</ul>
+
+<hr />
+
+<h2 id="-gebruik-in-combinatie-met-microsoft-copilot">🤖 Gebruik in combinatie met Microsoft Copilot</h2>
+
+<p>De keuze tussen Excel en SharePoint Lists beïnvloedt ook hoe goed <strong>Copilot (AI)</strong> uw data kan benutten:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Scenario</th>
+      <th>Aanbeveling</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Copilot in Teams/M365 moet data begrijpen en ophalen</td>
+      <td>✅ <strong>SharePoint Lists</strong> — beter gecrawled via Microsoft Graph</td>
+    </tr>
+    <tr>
+      <td>Copilot in Excel voor berekeningen en analyse</td>
+      <td>✅ <strong>Excel</strong> — directe AI-ondersteuning in het spreadsheet</td>
+    </tr>
+    <tr>
+      <td>Vragen over actuele procesdata (“hoeveel openstaande tickets?”)</td>
+      <td>✅ <strong>SharePoint Lists</strong> — Copilot haalt live itemdata op</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p><strong>Centrale, gestructureerde data in SharePoint Online levert betrouwbaardere Copilot-antwoorden op</strong> dan versplinterde informatie in losse Excel-bestanden.</p>
+</blockquote>
+
+<hr />
+
+<p><em>Bronnen: SharePoint Maven, i3 Solutions, MrSharePoint.com, Microsoft Support</em></p>]]></content><author><name></name></author><category term="M365" /><summary type="html"><![CDATA[📊 Excel vs. SharePoint-lijsten Een praktische vergelijking voor Power Users en Consultants]]></summary></entry><entry><title type="html">First down</title><link href="http://localhost:4000/personal/2026/04/28/First-Done.html" rel="alternate" type="text/html" title="First down" /><published>2026-04-28T00:22:47+02:00</published><updated>2026-04-28T00:22:47+02:00</updated><id>http://localhost:4000/personal/2026/04/28/First-Done</id><content type="html" xml:base="http://localhost:4000/personal/2026/04/28/First-Done.html"><![CDATA[<h1 id="hallo-ik-ben-rik-dobbelsteen">Hallo👋, ik ben Rik Dobbelsteen</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td>**Microsoft 365 Specialist</td>
+      <td>Consultant &amp; Co-founder bij Buro GEKKO**</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p>Ik help organisaties om efficiënter en effectiever te werken door Microsoft 365-oplossingen op de juiste manier in te zetten. Mijn missie? Organisaties het optimale laten halen uit de cloud, zodat medewerkers <strong>meer doen in minder tijd en op een leukere, meer eenvoudige wijze.</strong></p>
+
+<p>Als <strong>Consultant &amp; Co-founder</strong> bij <a href="https://www.burogekko.nl"><strong>Buro GEKKO</strong></a> werk ik samen met organisaties aan slimme en duurzame oplossingen met Microsoft-technologie. Bij Buro GEKKO bundelen we onze krachten als collectief van zelfstandig ondernemers, elk met eigen expertise, maar met één gezamenlijk doel: organisaties <strong>productiviteit laten winnen</strong>. <a href="https://na.linkedin.com/company/buro-gekko">[na.linkedin.com]</a></p>
+
+<blockquote>
+  <p>“Door Microsoft 365-oplossingen op de juiste manier in te zetten, kunnen medewerkers en organisaties meer doen in minder tijd.”
+***</p>
+</blockquote>
+
+<h2 id="-wat-ik-doe">🎯 Wat ik doe</h2>
+
+<h3 id="een-professionele-vragensteller">Een professionele vragensteller</h3>
+
+<p>Ik noem mezelf graag een <strong>Microsoft 365-consultant</strong>, of misschien wel beter: een <strong>professionele vragensteller</strong>. Mijn klanten willen hun organisatie beter laten functioneren en ik zorg voor een oplossing die écht past.</p>
+
+<p><strong>Zo werk ik:</strong></p>
+
+<ul>
+  <li>📊 Ik breng <strong>processen en procedures</strong> in kaart</li>
+  <li>💬 Ga in <strong>gesprek met medewerkers</strong></li>
+  <li>🛠️ Organiseer <strong>workshops, interviews en scans</strong></li>
+  <li>👀 Kijk mee bij de <strong>dagelijkse werkzaamheden</strong></li>
+</ul>
+
+<p>Pas als ik antwoord heb op de kernvraag <em>“Wat is nodig?”</em> adviseer ik over mogelijke digitale applicaties, platformen en hun plaats in de organisatie.</p>
+
+<h3 id="focus-op-mensen-niet-alleen-technologie">Focus op mensen, niet alleen technologie</h3>
+
+<p>Wat mij drijft? <strong>De mensen</strong>. Zij zijn de organisatie en moeten met de techniek blijven werken. Die techniek is altijd ondersteunend en zeker geen doel op zich.</p>
+
+<p>Daarom besteed ik veel aandacht aan <strong>gebruikersadoptie</strong>. Medewerkers moeten begrijpen:</p>
+
+<ul>
+  <li>✅ <strong>Waarom</strong> de nieuwe applicatie nodig is</li>
+  <li>✅ <strong>Wat</strong> zij kan</li>
+  <li>✅ <strong>Hoe</strong> zij beheerd wordt</li>
+  <li>✅ <strong>Hoe</strong> zij blijvend gebruikt wordt</li>
+</ul>
+
+<h2 id="-expertisegebieden">🚀 Expertisegebieden</h2>
+
+<style>
+        :root {
+        --accent: #464feb;
+        --timeline-ln: linear-gradient(to bottom, transparent 0%, #b0beff 15%, #b0beff 85%, transparent 100%);
+        --timeline-border: #ffffff;
+        --bg-card: #f5f7fa;
+        --bg-hover: #ebefff;
+        --text-title: #424242;
+        --text-accent: var(--accent);
+        --text-sub: #424242;
+        --radius: 12px;
+        --border: #e0e0e0;
+        --shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+        --hover-shadow: 0 4px 14px rgba(39, 16, 16, 0.1);
+        --font: "Segoe Sans", "Segoe UI", "Segoe UI Web (West European)", -apple-system, "system-ui", Roboto, "Helvetica Neue", sans-serif;
+        --overflow-wrap: break-word;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --accent: #7385ff;
+            --timeline-ln: linear-gradient(to bottom, transparent 0%, transparent 3%, #6264a7 30%, #6264a7 50%, transparent 97%, transparent 100%);
+            --timeline-border: #424242;
+            --bg-card: #1a1a1a;
+            --bg-hover: #2a2a2a;
+            --text-title: #ffffff;
+            --text-sub: #ffffff;
+            --shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+            --hover-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
+            --border: #3d3d3d;
+        }
+    }
+
+    @media (prefers-contrast: more),
+    (forced-colors: active) {
+        :root {
+            --accent: ActiveText;
+            --timeline-ln: ActiveText;
+            --timeline-border: Canvas;
+            --bg-card: Canvas;
+            --bg-hover: Canvas;
+            --text-title: CanvasText;
+            --text-sub: CanvasText;
+            --shadow: 0 2px 10px Canvas;
+            --hover-shadow: 0 4px 14px Canvas;
+            --border: ButtonBorder;
+        }
+    }
+
+    .insights-container {
+        display: grid;
+        grid-template-columns: repeat(2,minmax(240px,1fr));
+        padding: 0px 16px 0px 16px;
+        gap: 16px;
+        margin: 0 0;
+        font-family: var(--font);
+    }
+
+    .insight-card:last-child:nth-child(odd){
+        grid-column: 1 / -1;
+    }
+
+    .insight-card {
+        background-color: var(--bg-card);
+        border-radius: var(--radius);
+        border: 1px solid var(--border);
+        box-shadow: var(--shadow);
+        min-width: 220px;
+        padding: 16px 20px 16px 20px;
+    }
+
+    .insight-card:hover {
+        background-color: var(--bg-hover);
+    }
+
+    .insight-card h4 {
+        margin: 0px 0px 8px 0px;
+        font-size: 1.1rem;
+        color: var(--text-accent);
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .insight-card .icon {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 20px;
+        height: 20px;
+        font-size: 1.1rem;
+        color: var(--text-accent);
+    }
+
+    .insight-card p {
+        font-size: 0.92rem;
+        color: var(--text-sub);
+        line-height: 1.5;
+        margin: 0px;
+        overflow-wrap: var(--overflow-wrap);
+    }
+
+    .insight-card p b, .insight-card p strong {
+        font-weight: 600;
+    }
+
+    .metrics-container {
+        display:grid;
+        grid-template-columns:repeat(2,minmax(210px,1fr));
+        font-family: var(--font);
+        padding: 0px 16px 0px 16px;
+        gap: 16px;
+    }
+
+    .metric-card:last-child:nth-child(odd){
+        grid-column:1 / -1; 
+    }
+
+    .metric-card {
+        flex: 1 1 210px;
+        padding: 16px;
+        background-color: var(--bg-card);
+        border-radius: var(--radius);
+        border: 1px solid var(--border);
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .metric-card:hover {
+        background-color: var(--bg-hover);
+    }
+
+    .metric-card h4 {
+        margin: 0px;
+        font-size: 1rem;
+        color: var(--text-title);
+        font-weight: 600;
+    }
+
+    .metric-card .metric-card-value {
+        margin: 0px;
+        font-size: 1.4rem;
+        font-weight: 600;
+        color: var(--text-accent);
+    }
+
+    .metric-card p {
+        font-size: 0.85rem;
+        color: var(--text-sub);
+        line-height: 1.45;
+        margin: 0;
+        overflow-wrap: var(--overflow-wrap);
+    }
+
+    .timeline-container {
+        position: relative;
+        margin: 0 0 0 0;
+        padding: 0px 16px 0px 56px;
+        list-style: none;
+        font-family: var(--font);
+        font-size: 0.9rem;
+        color: var(--text-sub);
+        line-height: 1.4;
+    }
+
+    .timeline-container::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: calc(-40px + 56px);
+        width: 2px;
+        height: 100%;
+        background: var(--timeline-ln);
+    }
+
+    .timeline-container > li {
+        position: relative;
+        margin-bottom: 16px;
+        padding: 16px 20px 16px 20px;
+        border-radius: var(--radius);
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+    }
+
+    .timeline-container > li:last-child {
+        margin-bottom: 0px;
+    }
+
+    .timeline-container > li:hover {
+        background-color: var(--bg-hover);
+    }
+
+    .timeline-container > li::before {
+        content: "";
+        position: absolute;
+        top: 18px;
+        left: -40px;
+        width: 14px;
+        height: 14px;
+        background: var(--accent);
+        border: var(--timeline-border) 2px solid;
+        border-radius: 50%;
+        transform: translateX(-50%);
+        box-shadow: 0px 0px 2px 0px #00000012, 0px 4px 8px 0px #00000014;
+    }
+
+    .timeline-container > li h4 {
+        margin: 0 0 5px;
+        font-size: 1rem;
+        font-weight: 600;
+        color: var(--accent);
+    }
+
+    .timeline-container > li h4 em {
+        margin: 0 0 5px;
+        font-size: 1rem;
+        font-weight: 600;
+        color: var(--accent);
+        font-style: normal;
+    }
+
+    .timeline-container > li * {
+        margin: 0;
+        font-size: 0.9rem;
+        color: var(--text-sub);
+        line-height: 1.4;
+    }
+
+    .timeline-container > li * b, .timeline-container > li * strong {
+        font-weight: 600;
+    }
+        @media (max-width:600px){
+        .metrics-container,
+        .insights-container{
+            grid-template-columns:1fr;
+      }
+    }
+</style>
+
+<div class="insights-container">
+  <div class="insight-card">
+    <h4>🤖 Microsoft 365 &amp; AI/Copilot</h4>
+    <p>Implementatie, configuratie en optimalisatie van Microsoft 365-omgevingen, inclusief Microsoft Copilot voor AI-gedreven productiviteit</p>
+  </div>
+  <div class="insight-card">
+    <h4>📈 Adoptie &amp; Change Management</h4>
+    <p>Gebruikersadoptie, training, workshops en begeleiding om organisaties duurzaam te laten werken met nieuwe technologie</p>
+  </div>
+  <div class="insight-card">
+    <h4>🔄 Migratie &amp; Samenwerking</h4>
+    <p>SharePoint-migraties, Teams-implementaties, van netwerkschijf naar moderne samenwerking in de cloud</p>
+  </div>
+  <div class="insight-card">
+    <h4>⚙️ Procesoptimalisatie</h4>
+    <p>Beleid, beveiliging, beheersbaarheid en automatisering met Power Automate voor efficiëntere werkprocessen</p>
+  </div>
+</div>
+
+<p>Mijn specialisaties omvatten Microsoft Teams, SharePoint, OneDrive, Microsoft Copilot, gebruikersadoptie, educatie, migratie, procesoptimalisatie, beleid, beveiliging en beheersbaarheid.</p>
+
+<h2 id="️-podcast-appletje-eitje-met-microsoft-365">🎙️ Podcast: Apple’tje Eitje met Microsoft 365</h2>
+
+<p>Sinds 2025 ben ik co-host van de podcast <a href="https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320"><strong>Apple’tje Eitje met Microsoft 365</strong></a>, samen met <strong>Marcel Alberts</strong> (365ForAll.com) en <strong>Cas de Morree</strong> (FOCUSFUEL). <a href="https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320">[podcasts.apple.com]</a></p>
+
+<p><strong>Wat kun je verwachten?</strong></p>
+
+<ul>
+  <li>🎯 Direct toepasbare inzichten over hedendaags samenwerken in Microsoft 365</li>
+  <li>💡 Geen technische verhalen, maar onze <strong>ongezoute mening</strong></li>
+  <li>📬 Aan het einde van elke aflevering: een BRIEF met 3 onderwerpen uit het Microsoft Message Center <a href="https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320">[podcasts.apple.com]</a></li>
+</ul>
+
+<p><strong>Recente afleveringen:</strong></p>
+
+<ul>
+  <li>📅 Dec 2025: <em>“Gefeliciteerd, je bent getraind. Succes ermee!”</em> – Adoptie en Copilot <a href="https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320">[podcasts.apple.com]</a></li>
+  <li>📅 Aug 2025: <em>“Weer een Spreadsheet met een planning”</em> – Excel, Planner &amp; projectmanagement <a href="https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320">[podcasts.apple.com]</a></li>
+  <li>📅 Jul 2025: <em>“You Get a Team! And You Get a Team!”</em> – Teams, adoptie &amp; migratie <a href="https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320">[podcasts.apple.com]</a></li>
+  <li>📅 Jun 2025: <em>“Ode aan de netwerkschijf”</em> – OneDrive, SharePoint &amp; samenwerking <a href="https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320">[podcasts.apple.com]</a></li>
+  <li>📅 Mei 2025: <em>“AI, Hype of Revolutie”</em> – Microsoft Copilot en de toekomst van werk <a href="https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320">[podcasts.apple.com]</a></li>
+</ul>
+
+<hr />
+
+<h2 id="-copilot-ai-experience">🔶 Copilot AI Experience</h2>
+
+<p>Via <a href="https://www.copilot-ai.nl"><strong>copilot-ai.nl</strong></a> help ik organisaties de kracht van AI te ontdekken met de <strong>Copilot Experience</strong> – een 3 maanden durend traject waarin teams hands-on ervaring opdoen met Microsoft Copilot. <a href="https://www.copilot-ai.nl/">[copilot-ai.nl]</a></p>
+
+<p><strong>Wat levert het op?</strong></p>
+
+<ul>
+  <li>✅ Inzichten in AI-mogelijkheden vanuit jouw specifieke context</li>
+  <li>✅ Hands-on ervaring met AI in de praktijk</li>
+  <li>✅ Snel draagvlak en enthousiasme binnen je team</li>
+  <li>✅ Concrete eerste stappen met tastbare resultaten</li>
+  <li>✅ Een nieuwe manier van werken <a href="https://www.copilot-ai.nl/">[copilot-ai.nl]</a></li>
+</ul>
+
+<hr />
+
+<h2 id="-persoonlijk-de-reislustige-brabander">🌍 Persoonlijk: De reislustige Brabander</h2>
+
+<p>Ik ben een <strong>sociaal dier</strong>. Het contact met teamleden geeft me energie. Ik leg gemakkelijk contact, houd van gezelligheid en ben in voor een lolletje. Ik blijf wel een Brabander, hè!</p>
+
+<p><strong>Reizen is mijn passie.</strong> In 2020 ging ik met mijn gezin naar Australië. Het plan was twee maanden werken, daarna het land ontdekken en een vriend in Nieuw Zeeland opzoeken. Maar door de Corona-pandemie liep het anders. We werkten uiteindelijk drie maanden in Australië en zagen plekken waarvan we het bestaan niet wisten – vaak als enige toeristen.</p>
+
+<p>Die flexibele instelling herken ik ook professioneel: <strong>bij opdrachten gaat het zelden zoals je het van tevoren had bedacht</strong>. Dat betekent omschakelen vanuit de positieve gedachte dat voor elk probleem een oplossing is te vinden.</p>
+
+<hr />
+
+<h2 id="-neem-contact-op">📬 Neem contact op</h2>
+
+<p>Ben je <strong>benieuwd wat ik voor jouw organisatie kan betekenen?</strong> Of wil je meer weten over Microsoft 365, Copilot of adoptievraagstukken? Neem gerust contact op!</p>
+
+<p>🌐 <strong>Website Buro GEKKO:</strong> <a href="https://www.burogekko.nl">www.burogekko.nl</a><br />
+🤖 <strong>Copilot AI Experience:</strong> <a href="https://www.copilot-ai.nl">www.copilot-ai.nl</a><br />
+💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/rdobbelsteen">https://linkedin.com/in/rdobbelsteen</a><br />
+🎙️ <strong>Podcast:</strong> <a href="https://podcasts.apple.com/ne/podcast/appletje-eitje-met-microsoft-365/id1794411320">Apple’tje Eitje met Microsoft 365</a><br />
+📧 <strong>E-mail:</strong> <a href="mailto:info@burogekko.nl">info@burogekko.nl</a><br />
+📱 <strong>Telefoon:</strong> +31 6 13357723</p>
+
+<hr />
+
+<style>
+        :root {
+        --accent: #464feb;
+        --timeline-ln: linear-gradient(to bottom, transparent 0%, #b0beff 15%, #b0beff 85%, transparent 100%);
+        --timeline-border: #ffffff;
+        --bg-card: #f5f7fa;
+        --bg-hover: #ebefff;
+        --text-title: #424242;
+        --text-accent: var(--accent);
+        --text-sub: #424242;
+        --radius: 12px;
+        --border: #e0e0e0;
+        --shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+        --hover-shadow: 0 4px 14px rgba(39, 16, 16, 0.1);
+        --font: "Segoe Sans", "Segoe UI", "Segoe UI Web (West European)", -apple-system, "system-ui", Roboto, "Helvetica Neue", sans-serif;
+        --overflow-wrap: break-word;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --accent: #7385ff;
+            --timeline-ln: linear-gradient(to bottom, transparent 0%, transparent 3%, #6264a7 30%, #6264a7 50%, transparent 97%, transparent 100%);
+            --timeline-border: #424242;
+            --bg-card: #1a1a1a;
+            --bg-hover: #2a2a2a;
+            --text-title: #ffffff;
+            --text-sub: #ffffff;
+            --shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+            --hover-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
+            --border: #3d3d3d;
+        }
+    }
+
+    @media (prefers-contrast: more),
+    (forced-colors: active) {
+        :root {
+            --accent: ActiveText;
+            --timeline-ln: ActiveText;
+            --timeline-border: Canvas;
+            --bg-card: Canvas;
+            --bg-hover: Canvas;
+            --text-title: CanvasText;
+            --text-sub: CanvasText;
+            --shadow: 0 2px 10px Canvas;
+            --hover-shadow: 0 4px 14px Canvas;
+            --border: ButtonBorder;
+        }
+    }
+
+    .insights-container {
+        display: grid;
+        grid-template-columns: repeat(2,minmax(240px,1fr));
+        padding: 0px 16px 0px 16px;
+        gap: 16px;
+        margin: 0 0;
+        font-family: var(--font);
+    }
+
+    .insight-card:last-child:nth-child(odd){
+        grid-column: 1 / -1;
+    }
+
+    .insight-card {
+        background-color: var(--bg-card);
+        border-radius: var(--radius);
+        border: 1px solid var(--border);
+        box-shadow: var(--shadow);
+        min-width: 220px;
+        padding: 16px 20px 16px 20px;
+    }
+
+    .insight-card:hover {
+        background-color: var(--bg-hover);
+    }
+
+    .insight-card h4 {
+        margin: 0px 0px 8px 0px;
+        font-size: 1.1rem;
+        color: var(--text-accent);
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .insight-card .icon {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 20px;
+        height: 20px;
+        font-size: 1.1rem;
+        color: var(--text-accent);
+    }
+
+    .insight-card p {
+        font-size: 0.92rem;
+        color: var(--text-sub);
+        line-height: 1.5;
+        margin: 0px;
+        overflow-wrap: var(--overflow-wrap);
+    }
+
+    .insight-card p b, .insight-card p strong {
+        font-weight: 600;
+    }
+
+    .metrics-container {
+        display:grid;
+        grid-template-columns:repeat(2,minmax(210px,1fr));
+        font-family: var(--font);
+        padding: 0px 16px 0px 16px;
+        gap: 16px;
+    }
+
+    .metric-card:last-child:nth-child(odd){
+        grid-column:1 / -1; 
+    }
+
+    .metric-card {
+        flex: 1 1 210px;
+        padding: 16px;
+        background-color: var(--bg-card);
+        border-radius: var(--radius);
+        border: 1px solid var(--border);
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .metric-card:hover {
+        background-color: var(--bg-hover);
+    }
+
+    .metric-card h4 {
+        margin: 0px;
+        font-size: 1rem;
+        color: var(--text-title);
+        font-weight: 600;
+    }
+
+    .metric-card .metric-card-value {
+        margin: 0px;
+        font-size: 1.4rem;
+        font-weight: 600;
+        color: var(--text-accent);
+    }
+
+    .metric-card p {
+        font-size: 0.85rem;
+        color: var(--text-sub);
+        line-height: 1.45;
+        margin: 0;
+        overflow-wrap: var(--overflow-wrap);
+    }
+
+    .timeline-container {
+        position: relative;
+        margin: 0 0 0 0;
+        padding: 0px 16px 0px 56px;
+        list-style: none;
+        font-family: var(--font);
+        font-size: 0.9rem;
+        color: var(--text-sub);
+        line-height: 1.4;
+    }
+
+    .timeline-container::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: calc(-40px + 56px);
+        width: 2px;
+        height: 100%;
+        background: var(--timeline-ln);
+    }
+
+    .timeline-container > li {
+        position: relative;
+        margin-bottom: 16px;
+        padding: 16px 20px 16px 20px;
+        border-radius: var(--radius);
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+    }
+
+    .timeline-container > li:last-child {
+        margin-bottom: 0px;
+    }
+
+    .timeline-container > li:hover {
+        background-color: var(--bg-hover);
+    }
+
+    .timeline-container > li::before {
+        content: "";
+        position: absolute;
+        top: 18px;
+        left: -40px;
+        width: 14px;
+        height: 14px;
+        background: var(--accent);
+        border: var(--timeline-border) 2px solid;
+        border-radius: 50%;
+        transform: translateX(-50%);
+        box-shadow: 0px 0px 2px 0px #00000012, 0px 4px 8px 0px #00000014;
+    }
+
+    .timeline-container > li h4 {
+        margin: 0 0 5px;
+        font-size: 1rem;
+        font-weight: 600;
+        color: var(--accent);
+    }
+
+    .timeline-container > li h4 em {
+        margin: 0 0 5px;
+        font-size: 1rem;
+        font-weight: 600;
+        color: var(--accent);
+        font-style: normal;
+    }
+
+    .timeline-container > li * {
+        margin: 0;
+        font-size: 0.9rem;
+        color: var(--text-sub);
+        line-height: 1.4;
+    }
+
+    .timeline-container > li * b, .timeline-container > li * strong {
+        font-weight: 600;
+    }
+        @media (max-width:600px){
+        .metrics-container,
+        .insights-container{
+            grid-template-columns:1fr;
+      }
+    }
+</style>
+
+<div class="insights-container">
+  <div class="insight-card">
+    <h4>💡 Mijn motto</h4>
+    <p>"Laat technologie voor je werken, met oplossingen die blijven plakken"</p>
+  </div>
+  <div class="insight-card">
+    <h4>🎯 Mijn missie</h4>
+    <p>Organisaties het optimale laten halen uit de cloud: Boosting Business Productivity</p>
+  </div>
+  <div class="insight-card">
+    <h4>🤝 Mijn aanpak</h4>
+    <p>Mensen eerst, technologie ondersteunend – met oog voor adoptie en verandering</p>
+  </div>
+</div>
+
+<hr />]]></content><author><name></name></author><category term="personal" /><summary type="html"><![CDATA[Hallo👋, ik ben Rik Dobbelsteen]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2026/04/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2026-04-27T21:49:47+02:00</published><updated>2026-04-27T21:49:47+02:00</updated><id>http://localhost:4000/jekyll/update/2026/04/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2026/04/27/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
