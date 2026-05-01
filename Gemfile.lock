@@ -290,6 +290,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 232)
   http_parser.rb (~> 0.6.0)
+  jekyll-default-layout
   jekyll-feed (~> 0.12)
   jekyll-remote-theme
   jekyll-theme-slate (~> 0.1)
