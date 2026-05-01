@@ -33,6 +33,8 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-default-layout
+  
 remote_theme: benbalter/retlab
 # Exclude from processing.
 # The following items will not be processed, by default.
