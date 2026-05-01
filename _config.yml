@@ -28,7 +28,7 @@ twitter_username: dadu4net
 github_username:  dadu4net
 
 # Build settings
-theme: minima
+theme: chulapa-jekyll #minima
 plugins:
   - jekyll-feed
 
